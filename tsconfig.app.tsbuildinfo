@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/ui/text-hover-effect.tsx"],"version":"5.8.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/beams.tsx","./src/components/silk.tsx","./src/components/ui/text-hover-effect.tsx"],"version":"5.8.3"}
